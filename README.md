@@ -1,5 +1,4 @@
-# demo
-
+# Coronavirus_Tracker_application
 A new Flutter application.
 
 ## Getting Started
