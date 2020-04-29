@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1052680428208",
+    "firebase_url": "https://corona-tracker-e2a5f.firebaseio.com",
+    "project_id": "corona-tracker-e2a5f",
+    "storage_bucket": "corona-tracker-e2a5f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052680428208:android:042e39b2a3dbec8ca87975",
+        "android_client_info": {
+          "package_name": "com.example.demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052680428208-ht4ukqbsalnckk5rl5lg3l176cik6j2q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyADfApC5Mzqh2miOeUXjl6A3XBseb8e0Z0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052680428208-ht4ukqbsalnckk5rl5lg3l176cik6j2q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
