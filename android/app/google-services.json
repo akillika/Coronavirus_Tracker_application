@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "1052680428208",
-    "firebase_url": "https://corona-tracker-e2a5f.firebaseio.com",
-    "project_id": "corona-tracker-e2a5f",
-    "storage_bucket": "corona-tracker-e2a5f.appspot.com"
+    "project_number": "644312089472",
+    "firebase_url": "https://test-f67cc.firebaseio.com",
+    "project_id": "test-f67cc",
+    "storage_bucket": "test-f67cc.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:1052680428208:android:042e39b2a3dbec8ca87975",
+        "mobilesdk_app_id": "1:644312089472:android:9a7d969e84fd1d47fcf765",
         "android_client_info": {
           "package_name": "com.example.demo"
         }
       },
       "oauth_client": [
         {
-          "client_id": "1052680428208-ht4ukqbsalnckk5rl5lg3l176cik6j2q.apps.googleusercontent.com",
+          "client_id": "644312089472-v8que4jvcinp32qc5r6udhoemmqmncli.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyADfApC5Mzqh2miOeUXjl6A3XBseb8e0Z0"
+          "current_key": "AIzaSyCxhhrHNVN1OXtB_74eWGfVhL4kI2JlWcU"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "1052680428208-ht4ukqbsalnckk5rl5lg3l176cik6j2q.apps.googleusercontent.com",
+              "client_id": "644312089472-v8que4jvcinp32qc5r6udhoemmqmncli.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
